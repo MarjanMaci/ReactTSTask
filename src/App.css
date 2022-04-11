@@ -13,6 +13,18 @@
   }
 }
 
+.search-wrapper{
+  margin: 3vh 0;
+}
+.search-wrapper button{
+  margin: 0 3vw;
+}
+
+img{
+  max-width: 5vw;
+  max-height: 5vh;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
